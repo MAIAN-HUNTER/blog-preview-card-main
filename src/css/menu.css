@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Figtree';
+    src: url('../../assets/fonts/Figtree-Italic-VariableFont_wght.ttf');
+}
+body{
+    font-family: 'Figtree';
+}
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
